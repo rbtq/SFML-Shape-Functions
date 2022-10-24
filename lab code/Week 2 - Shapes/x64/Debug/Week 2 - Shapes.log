@@ -1,0 +1,11 @@
+﻿  Hexagon.cpp
+C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\src\Hexagon.cpp(10,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\src\Hexagon.cpp(10,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Octagon.cpp
+C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\src\Octagon.cpp(9,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\src\Octagon.cpp(9,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Square.cpp
+C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\src\Square.cpp(9,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\src\Square.cpp(9,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Week 2 - Shapes.vcxproj -> C:\Users\Denied\source\repos\IMAT2905\lab code\Week 2 - Shapes\x64\Debug\Week 2 - Shapes.exe
